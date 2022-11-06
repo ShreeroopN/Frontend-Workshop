@@ -1,0 +1,28 @@
+h1{
+    font-size: 60px;
+    color: aqua;
+}
+.div{
+    border: 5px solid green;
+    border-radius: 30px;
+    padding: 50px;
+    margin: 20px;
+    width: 500px;
+}
+div{
+    background-color: beige;
+}
+#image{
+    border: 50px solid black; 
+    color: aqua;
+    border-radius: 20px;
+}
+#vid{
+    width: 400px;
+}
+form{
+    border: 10px solid black;
+    padding: 40px;
+    margin-right: 800px;
+    margin-left: 30px;
+}
